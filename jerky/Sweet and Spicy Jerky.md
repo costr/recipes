@@ -19,4 +19,6 @@ _This recipe is an adaptation of Chef John's recipe: http://allrecipes.com/recip
 
 _NOTE: If you feel your meat is over dehyradated use a spray bottle of water to help slightly rehydrate the meat_
 
-_Personal note: I found this quite good but I could use more spice. I want to try this recipe with ghost pepper flakes instead of red pepper_
+_NOTE: I found this quite good but I could use more spice. I want to try this recipe with ghost pepper flakes instead of red pepper_
+
+_NOTE (update 7/15/19): I split off 1/4 of the mixture and added an additional 1T of ghost pepper flakes. This adds a nice kick but doesn't take it up too crazy. I feel that if you took the mix and heated it up slowly and then cooled completely you'd get a much better bloom of spice._
