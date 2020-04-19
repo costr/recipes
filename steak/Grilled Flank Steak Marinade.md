@@ -14,8 +14,8 @@
 - 2 Tbsp Prepared Mustard (Yellow)
 
 ## Directions
-- In a large resealable bag, combine first seven ingredients; mix well. 
-- Add beef; seal bag and turn to coat. Refrigerate several hours or overnight, turning once. 
-- Drain and discard the marinade. 
-- Brush both sides of the meat with the mustard. 
-- Grill, covered, over medium-hot heat for 5 - 10 minutes on each side.
+1. In a large resealable bag, combine first seven ingredients; mix well. 
+1. Add beef; seal bag and turn to coat. Refrigerate several hours or overnight, turning once. 
+1. Drain and discard the marinade. 
+1. Brush both sides of the meat with the mustard. 
+1. Grill, covered, over medium-hot heat for 5 - 10 minutes on each side.
