@@ -22,9 +22,9 @@
 8. 1/8 - 1/4 tsp cayenne (optional)
 
 ## Protein and Garnish Ingredients ##
-9.  2 lbs of tilapia fillets (or other fish)
-10. 12 6" tortillas
-11. 2 limes, cut in wedges
+1.  2 lbs of tilapia fillets (or other fish)
+2. 12 6" tortillas
+3. 2 limes, cut in wedges
 
 ## Directions ##
 
