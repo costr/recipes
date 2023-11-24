@@ -13,3 +13,8 @@
 9. Put the turkey back in the oven and cook until 161F
 10. A 14lb turkey should take about an additional 1.5 hours to reach 161F
 11. Remove and let rest, covered, for 15 minutes
+
+## Misc Notes ##
+
+1. Turkey cook times can swing 30 - 60 minutes
+2. Turkey will stay hot/warm for a long time; use this to plan ahead and cook to be done earlier than you plan to eat
