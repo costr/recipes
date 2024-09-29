@@ -2,7 +2,7 @@
 
 ## Alton Browns Cooking Methodology ##
 
-1. Preheat the oven to 500F
+1. Preheat the oven to 500F, set oven rack to 2nd lowest level
 2. Pat dry your turkey, a dryer turkey browns more evenly
 3. Once dry, take aluminum foil and create a tent that covers the breast neck to thighs but doesn't cover the legs, triangle shaped, and coat the foil with canola oil
 4. Rub the turkey with canola oil, to promote browning
