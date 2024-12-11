@@ -14,6 +14,7 @@
 - 2 lbs Ground Beef (80/20)
 - 1 lb Sweet Italian sausage
 - 1/2 tsp Dried oregano
+- 1/2 tsp Dried ground sage
 - 6 Sliced of provolone
 - 6 Semolina Rolls, split and toasted (we've never found them so we just go with fresh rolls)
 - Torn fresh basil (for topping)
