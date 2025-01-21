@@ -5,12 +5,12 @@ _This recipe is an adaptation of Chef John's recipe: http://allrecipes.com/recip
 ## Ingredients:
 - 3/4 cup Worcestershire Sauce
 - 3/4 cup Soy Sauce
-- 1 Tablespoon of smoke paprika
+- 1 Tablespoon of smoked paprika
 - 1 Tablespoon of honey (it's not about precision here)
 - 1/2 Tablespoon of freshly ground black pepper
 - 1 Tablespoon of red pepper flakes
 - 2 teaspoons of garlic powder
-- 2 pounds of beef top round, about 1/4 in thickness
+- 2 pounds of beef top round, about 1/4 in thickness (I really like using Flank Steak instead)
 
 ## Directions
 1. Whisk Worcestershire sauce, soy sauce, paprika, honey (I heat the honey in the microwave for 10-15 seconds to ensure it will more easily whisk into the mix), black pepper, red pepper flakes, garlic powder, and onion powder together in a bowl. Add beef to bowl and turn to coat beef completely. Marinate in the refrigerator overnight. (I like to use a hand-pumped vacuum sealed tupperware to help speed up the marinade)
