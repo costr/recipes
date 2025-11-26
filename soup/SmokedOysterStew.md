@@ -9,7 +9,7 @@
 - 2 - 3 2/3 Ounce cans of Smoked Oysters drained
 - 3 Cups of Milk
 - 2 Cups of Whipping Cream
-- 2 Cups of schucked Oysters, With their juices
+- 1 - 2 Cup(s) of schucked Oysters, With their juices (1/2 - 1 pint)
 - 4 Tbsp of Lemon Juice
 - 1 1/4 tsp Salt
 - 1/2 Tbsp Worchestershire Sauce
