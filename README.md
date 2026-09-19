@@ -4,6 +4,7 @@
 ---
 
 This repository stores some of my favorite recipes. I love to cook and try to improve recipes each time I make them. 
+Browse every recipe in [INDEX.md](INDEX.md).
 
 ## Categories
 
